@@ -1,4 +1,4 @@
-I would like to lear version control projects with git
+I would like to learn version control projects with git
 # mycode
 tracking my code
 # mycode (Python training)
