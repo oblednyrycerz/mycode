@@ -1,3 +1,4 @@
+I would like to lear version control projects with git
 # mycode
 tracking my code
 # mycode (Python training)
