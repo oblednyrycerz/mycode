@@ -1,0 +1,1 @@
+cd ~/mycode; git add *; git commit -m "Commit for next lab"; git push origin main
